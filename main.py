@@ -2,7 +2,8 @@
 import os
 
 ENTRY = (
-    "Please accept my resignation, effective immediately, to pursue my dream job: lying down."
+    "Please accept my resignation, effective immediately, to spend more time with my bed, "
+    "which has never once scheduled a meeting over my lunch break."
 )
 
 def main() -> None:
